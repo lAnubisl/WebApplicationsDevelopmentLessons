@@ -1,0 +1,23 @@
+﻿@model SimpleWebApp.Models.Category
+
+<div>
+    <b>@Model.Name</b>
+
+    @if (Model.SubCategories != null)
+    {
+        foreach (var subCategory in Model.SubCategories)
+        {
+            @Html.Partial("Category", subCategory)
+        }
+    }
+
+    @if (Model.Products != null)
+    {
+        <ul>          
+            @foreach (var product in Model.Products)
+            {
+                <li>@product.Price $, @product.Name</li>
+            }
+        </ul>
+    }
+</div>

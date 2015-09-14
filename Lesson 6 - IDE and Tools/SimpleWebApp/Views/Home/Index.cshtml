@@ -1,0 +1,17 @@
+﻿@model System.Collections.ObjectModel.Collection<SimpleWebApp.Models.Category>
+
+@{
+    ViewBag.Title = "title";
+}
+
+@if (Model != null)
+{
+    foreach (var category in Model)
+    {
+        @Html.Partial("Category", category)
+    }
+}
+else
+{
+    <div>There are no categories.</div>
+}
