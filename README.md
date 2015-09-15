@@ -6,3 +6,4 @@
 * [План курса](https://github.com/lAnubisl/WebApplicationsDevelopmentLessons/blob/master/LessonsPlan.md)
 * [Исходные коды](https://github.com/lAnubisl/WebApplicationsDevelopmentLessons)
 * [Записи лекций](https://www.youtube.com/channel/UCQu1ll4WgyxuxMVsdMl0AMw)
+* [Задание для курсового проекта](https://github.com/lAnubisl/WebApplicationsDevelopmentLessons/blob/master/CourseWork.md)
