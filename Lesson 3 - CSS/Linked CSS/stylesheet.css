@@ -1,0 +1,17 @@
+TABLE {
+	border: 1px solid black;
+}
+
+TD {
+	border: 1px solid black;
+	padding: 5px;
+	font-size: 24px;
+}
+
+TD.r1c1 {
+	font-family: Arial;
+}
+
+.f45 {
+	font-size: 45px;
+}
