@@ -1,0 +1,13 @@
+﻿@model MeetMvcFramework.Models.Dog
+
+@{
+    Layout = "~/Views/Shared/_Green.cshtml";
+}
+
+@section NestedMenu
+{
+    <a href="@Url.Action("Index", "Home")">Hey!</a>
+}
+
+<h2>Dog's name: @Model.Name</h2>
+<P>Owner: @Model.Owner</P>

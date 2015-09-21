@@ -1,0 +1,13 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Menu
+{
+    @RenderSection("NestedMenu", false)
+}
+
+<div style="background-color: green;">
+    @RenderBody()
+</div>
