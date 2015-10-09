@@ -95,7 +95,10 @@ Fiddler; инструменты разработчика в браузерах;
 централизованные и децентрализованные VCS; GIT; понятия репозиторий, коммит, ветка; основные команды GIT; инициализация репозитория; добавление файлов в репозиторий; фиксация изменений; просмотр истории изменений; создание веток; слияние веток; процесс GitFlow; программа TurtoiseGit; GitHub; работа с GIT в Microsoft Visual studio.
 
 Дополнительные ресурсы:
-
+-   [Скринкаст: Системы контроля версий. Проблемы, которые они решают](https://youtu.be/LSqri1LUp-k)
+-   [Cкринкаст: Основы работы с GIT](https://youtu.be/ylAegM7HMo0)
+-   [Скринкаст: LearnGitBranching](https://youtu.be/vOazQohAStM)
+-   [Скринкаст: Вествление и слияние в GIT](https://youtu.be/lZ55YT1M_g8)
 -   [Интерактивное учебное пособие: Learn Git Branching](<http://pcottle.github.io/learnGitBranching>)
 -   [Git](https://git-scm.com)
 -   [TurtoiseGit](https://tortoisegit.org/download)
