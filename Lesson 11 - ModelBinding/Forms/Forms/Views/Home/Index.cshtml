@@ -1,0 +1,19 @@
+﻿@model Forms.Controllers.FormModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<form method="POST" action="/" enctype="multipart/form-data">
+    @Html.TextBoxFor(m => m.user.name)
+    <select name="Option">
+        <option>Option 1</option>
+        <option>Option 2</option>
+        <option>Option 3</option>
+    </select>
+    <input name="registered" type="checkbox"/>
+    <input type="radio"/>
+    <input type="hidden"/>
+    <input name="avatar" type="file"/>
+    <input name="password" type="password"/>
+    <input type="submit"/>
+</form>
