@@ -6,16 +6,16 @@
     <div class="main">
 
         
-        <div class="header" style="background-image: url('@Model.Top1Movie.ImageUri') no-repeat 0px 0px">
+        <div class="header" style="background: url('@Model.Top1Movie.ImageUri') no-repeat 0px 0px; background-size: cover;">
             @Html.Partial("Header")
             <div class="header-info">
                 <h1>@Model.Top1Movie.Name</h1>
                 <p class="age">
-                    <a href="#">@Model.Top1Movie.MPAA</a> @Model.Top1Movie.DirectorsString)
+                    <a href="#">@Model.Top1Movie.MPAA</a> @Model.Top1Movie.DirectorsString
                 </p>
                 <p class="review">Rating &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp; @Model.Top1Movie.Rating/10</p>
                 <p class="review reviewgo">Genre &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : &nbsp;&nbsp; @Model.Top1Movie.GenresString</p>
-                <p class="review">Release &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp; @Model.Top1Movie.ReleaDate</p>
+                <p class="review">Release &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp; @Model.Top1Movie.ReleaDate.ToString("dd MMM yyyy")</p>
                 <p class="special">@Model.Top1Movie.Slogan</p>
                 <a class="video" href="#"><i class="video1"></i>WATCH TRAILER</a>
                 <a class="book" href="#"><i class="book1"></i>BOOK TICKET</a>
