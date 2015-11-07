@@ -1,0 +1,33 @@
+﻿@using FormValidation.Models
+@model ArticleModel
+<div class="wrap-article">
+    <h2>This is an article title</h2>
+    <p class="date"><span>@DateTime.Now.Date.ToString("D")</span><span>@DateTime.Now.Date.ToString("hh:mm")</span></p>
+    <div class="text-block">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim orci dolor, sed sodales nibh molestie nec. In hac habitasse platea dictumst. Integer commodo mi mi, et dapibus nisi mattis eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque tristique ligula a sem molestie pretium. Quisque dolor justo, placerat eu tincidunt in, aliquam at velit. Aenean a tincidunt ipsum. Fusce finibus vel risus quis pulvinar. Vestibulum condimentum vel massa sit amet vestibulum. Suspendisse ante elit, pulvinar eu elit sed, condimentum rhoncus justo. Curabitur auctor, velit vitae posuere efficitur, felis orci fringilla nunc, eget auctor sem quam sed magna. Aenean tristique dui lacinia mauris euismod, at hendrerit nisl volutpat. Sed gravida eleifend ex, eu ultricies nisi convallis vel.</p>
+    </div>
+</div>
+<div class="wrap-soc-list">
+    <ul>
+        <li><a href="#"><img src="~/Content/images/fc-ico.png" alt="" /><span>123</span></a></li>
+        <li><a href="#"><img src="~/Content/images/fc-ico.png" alt="" /><span>123</span></a></li>
+        <li><a href="#"><img src="~/Content/images/fc-ico.png" alt="" /><span>123</span></a></li>
+    </ul>
+</div>
+<div class="wrap-comments">
+    <h2>Comments</h2>
+    <ul class="list-comment">
+        @foreach (string item in Model.Comments)
+        {
+            <li>
+                <div class="avatar"><img src="~/Content/images/avatar-comment.png" alt="" /></div>
+                <div class="comment-text">
+                    <a href="#"></a>
+                    <p class="date"><span>@DateTime.Now.Date.ToString("D")</span><span>@DateTime.Now.Date.ToString("hh:mm")</span></p>
+                    <p>@item</p>
+                </div>
+            </li>
+        }
+    </ul>
+    @Html.Partial("~/Views/Home/AddComment.cshtml")
+</div>

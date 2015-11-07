@@ -1,0 +1,80 @@
+﻿<!doctype html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="~/Content/css/reset.css">
+    <link rel="stylesheet" href="~/Content/css/style.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="left-column">
+            <div class="wrap-avatar">
+                <img src="~/Content/images/avatar.png" alt="" />
+                <h2>John Doe</h2>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#">Latest Post</a></li>
+                    <li><a href="#">Archive</a></li>
+                    <li><a href="#">About Me</a></li>
+                </ul>
+            </div>
+            <div class="search-form">
+                <input type="text" />
+                <button></button>
+            </div>
+            <div class="posts-wrap">
+                <h3>Recent Posts</h3>
+                <ul>
+                    <li>
+                        <p class="date">@DateTime.Now.Date.ToString("D")</p>
+                        <p class="post">
+                            <a href="#">Post title</a>
+                        </p>
+                    </li>
+                    <li>
+                        <p class="date">@DateTime.Now.Date.ToString("D")</p>
+                        <p class="post">
+                            <a href="#">Post title</a>
+                        </p>
+                    </li>
+                    <li>
+                        <p class="date">@DateTime.Now.Date.ToString("D")</p>
+                        <p class="post">
+                            <a href="#">Post title</a>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+            <div class="posts-wrap color">
+                <h3>Recent Comments</h3>
+                <ul>
+                    <li>
+                        <p class="date">@DateTime.Now.Date.ToString("D") <span>@DateTime.Now.Date.ToString("hh:mm")</span></p>
+                        <p class="post">
+                            <a href="#">Comment body</a>
+                        </p>
+                    </li>
+                    <li>
+                        <p class="date">@DateTime.Now.Date.ToString("D") <span>@DateTime.Now.Date.ToString("hh:mm")</span></p>
+                        <p class="post">
+                            <a href="#">Comment body</a>
+                        </p>
+                    </li>
+                    <li>
+                        <p class="date">@DateTime.Now.Date.ToString("D") <span>@DateTime.Now.Date.ToString("hh:mm")</span></p>
+                        <p class="post">
+                            <a href="#">Comment body</a>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="right-column">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>
