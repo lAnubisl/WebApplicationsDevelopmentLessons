@@ -1,0 +1,20 @@
+﻿@using System.Collections.ObjectModel
+
+@{
+	var items = Session["MySession"] as Collection<string>;
+	string values = null;
+	if (items != null)
+	{
+		values = string.Join(", ", items);
+	}
+}
+
+<h2>Index</h2>
+<div id="cookie"></div>
+<div>@values</div>
+<script>
+	var cookie = document.cookie;
+	if (cookie !== undefined) {
+		document.getElementById("cookie").innerText = cookie;
+	}
+</script>
