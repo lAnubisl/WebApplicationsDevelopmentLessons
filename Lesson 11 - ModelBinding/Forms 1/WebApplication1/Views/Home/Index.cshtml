@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@using System.Collections.ObjectModel
+@model WebApplication1.Models.UserModel
+
+<h2>Index</h2>
+
+<form method="POST">
+	@Html.TextBoxFor(x => x.UserName)
+	@Html.PasswordFor(m => m.Password)
+	@Html.DropDownListFor(m => m.City, Model.Cities.Select(x => new SelectListItem() {Text = x}))
+	<input type="submit"/>
+</form>
