@@ -1,0 +1,80 @@
+﻿@model ICollection<HoS_AP.BLL.Models.CharacterListItemModel>
+@{
+    ViewBag.Title = "Characters List";
+}
+
+<h2>Character List</h2>
+<div class="row">
+    <div class="col-md-12">
+        <section id="loginForm">
+
+            <div class="form-group">
+                <div class="col-md-offset-11 col-md-1">
+                    <a href="@Url.Action("Add")" class="btn btn-info pull-right" role="button">Add</a>
+                </div>
+            </div>
+
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Type
+                    </th>
+                    <th>
+                        Created
+                    </th>
+                    <th>
+                        Price
+                    </th>
+                    <th>
+                        Active
+                    </th>
+                    <th>
+                        Deleted
+                    </th>
+                    <th>
+
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var character in Model)
+                {
+                    <tr>
+                        <td class="col-md-2">
+                            @character.Name
+                        </td>
+                        <td class="col-md-2">
+                            @character.Type
+                        </td>
+                        <td class="col-md-2">
+                            @character.Created
+                        </td>
+                        <td class="col-md-2">
+                            @String.Format("{0:0.00}", character.Price)
+                        </td>
+                        <td class="col-md-2">
+                            @character.Active
+                        </td>
+                        <td class="col-md-2">
+                            @character.Deleted
+                        </td>
+                        <th>
+                            @Html.ActionLink("Edit", "Edit", "Character", new {name = character.Name}, null)
+                        </th>
+                    </tr>
+                }
+                </tbody>
+            </table>
+
+            <div class="form-group">
+                <div class="col-md-offset-11 col-md-1">
+                    <a href="@Url.Action("Add")" class="btn btn-info pull-right" role="button">Add</a>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+2016-09-26 15:44:28,587 [1] DEBUG  Global - Application Start
+2016-09-26 15:44:28,995 [1] DEBUG  InversionOfControlContainer - RegisterServices: Default registration is completed
+2016-09-26 15:44:29,156 [10] DEBUG  Global - Incoming request: http://localhost:2020/
+2016-09-26 15:44:29,674 [10] INFO  CharacterDao - Creating new instance of CharacterDao with repository of type HoS_AP.DAL.Repository.GenericRepository`1[HoS_AP.DAL.Dto.Character]
+2016-09-26 15:47:56,083 [1] DEBUG  Global - Application Start
+2016-09-26 15:47:56,469 [1] DEBUG  InversionOfControlContainer - RegisterServices: Default registration is completed
+2016-09-26 15:47:56,493 [8] DEBUG  Global - Incoming request: http://localhost:2020/
+2016-09-26 15:47:56,594 [8] INFO  CharacterDao - Creating new instance of CharacterDao with repository of type HoS_AP.DAL.Repository.GenericRepository`1[HoS_AP.DAL.Dto.Character]
+2016-09-26 15:48:03,773 [4] WARN  InversionOfControlContainer - Mocked instance of type HoS_AP.DAL.Repository.IGenericRepository`1[HoS_AP.DAL.Dto.Character] as Castle.Proxies.ObjectProxy
+2016-09-26 15:48:03,854 [4] WARN  InversionOfControlContainer - Mocked instance of type HoS_AP.DAL.Repository.IGenericRepository`1[HoS_AP.DAL.Dto.Account] as Castle.Proxies.ObjectProxy_1
+2016-09-26 15:48:03,868 [10] DEBUG  Global - Incoming request: http://localhost:2020/
+2016-09-26 15:48:03,871 [10] INFO  CharacterDao - Creating new instance of CharacterDao with repository of type Castle.Proxies.ObjectProxy
+2016-09-26 15:48:05,781 [10] DEBUG  Global - Incoming request: http://localhost:2020/
+2016-09-26 15:48:05,916 [9] DEBUG  Global - Incoming request: http://localhost:2020/characters

@@ -1,0 +1,500 @@
+2016-08-22 16:12:36,469 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:36,589 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:36,662 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:12:36,662 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:36,741 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:36,816 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:12:36,818 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:36,891 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:36,969 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:12:36,969 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:37,043 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:37,115 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:12:38,951 [Worker#STA_NP] INFO  [hostasp.AppHost] - Setting up new httplistener on port 8090
+2016-08-22 16:12:38,954 [Worker#STA_NP] DEBUG [hostasp.Listener] - Starting http listener
+2016-08-22 16:12:39,046 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: System.Reactive.Debugger, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2016-08-22 16:12:39,138 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:39,139 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:39,293 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:39,294 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:39,536 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:39,537 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:39,884 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:39,885 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:40,350 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:40,351 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:40,939 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:40,939 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:41,722 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:41,722 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:42,623 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:42,625 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:43,260 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:43,261 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:44,015 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:44,016 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:44,982 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:44,983 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:46,176 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:46,177 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:47,651 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:47,652 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:49,346 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:49,347 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:51,316 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:51,316 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:53,606 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:53,607 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:56,227 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:56,228 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:12:59,108 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:12:59,109 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:02,345 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:02,345 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:05,938 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:05,938 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:09,942 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:09,943 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:14,261 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:14,262 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:19,069 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:19,070 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:24,316 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:24,317 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:29,962 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:29,962 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:36,285 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:36,286 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:42,947 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:42,948 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:50,182 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:50,183 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:13:58,187 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:13:58,188 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:23,146 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:23,271 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:23,351 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:14:23,351 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:23,432 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:23,519 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:14:23,520 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:23,604 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:23,695 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:14:23,695 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:23,779 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:23,867 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:14:29,062 [Worker#STA_NP] INFO  [hostasp.AppHost] - Setting up new httplistener on port 8090
+2016-08-22 16:14:29,309 [Worker#STA_NP] DEBUG [hostasp.Listener] - Starting http listener
+2016-08-22 16:14:29,423 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: System.Reactive.Debugger, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2016-08-22 16:14:29,501 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:29,502 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:29,637 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:29,638 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:29,823 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:29,824 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:30,109 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:30,109 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:30,412 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:30,413 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:30,781 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:30,782 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:31,246 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:31,246 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:31,792 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:31,792 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:32,464 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:32,464 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:33,095 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:33,096 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:33,815 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:33,816 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:34,597 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:34,598 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:35,438 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:35,439 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:36,321 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:36,322 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:37,262 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:37,263 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:38,253 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:38,254 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:39,344 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:39,345 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:40,633 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:40,634 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:41,998 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:41,999 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:43,377 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:43,378 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:44,778 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:44,779 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:46,210 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:46,211 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:47,745 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:47,746 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:49,323 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:49,324 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:50,943 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:50,943 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:14:52,738 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:14:52,739 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:12,662 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:12,780 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:12,860 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:15:12,861 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:12,949 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:13,033 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:15:13,035 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:13,120 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:13,210 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:15:13,210 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:13,304 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:13,414 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:15:24,034 [Worker#STA_NP] INFO  [hostasp.AppHost] - Setting up new httplistener on port 8090
+2016-08-22 16:15:28,881 [Worker#STA_NP] DEBUG [hostasp.Listener] - Starting http listener
+2016-08-22 16:15:28,985 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: System.Reactive.Debugger, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2016-08-22 16:15:29,064 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:29,065 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:29,219 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:29,220 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:29,455 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:29,456 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:29,792 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:29,793 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:30,260 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:30,261 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:30,864 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:30,864 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:31,637 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:31,637 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:32,553 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:32,553 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:33,627 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:33,628 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:34,910 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:34,911 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:36,393 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:36,394 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:38,109 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:38,109 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:40,190 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:40,191 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:42,416 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:42,417 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:45,003 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:45,003 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:48,095 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:48,096 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:15:51,327 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:15:51,328 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:16:35,787 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:16:35,894 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:16:35,980 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:16:35,981 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:16:36,068 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:16:36,153 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:16:36,155 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:16:36,235 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:16:36,313 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:16:36,313 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:16:36,388 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:16:36,462 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:16:44,575 [Worker#STA_NP] INFO  [hostasp.AppHost] - Setting up new httplistener on port 8083
+2016-08-22 16:16:54,524 [Worker#STA_NP] DEBUG [hostasp.Listener] - Starting http listener
+2016-08-22 16:17:08,990 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: System.Reactive.Debugger, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2016-08-22 16:17:09,070 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:09,071 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:09,237 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:09,238 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:09,486 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:09,487 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:09,831 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:09,831 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:10,312 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:10,313 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:10,914 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:10,914 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:11,705 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:11,705 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:12,637 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:12,638 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:13,737 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:13,738 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:15,049 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:15,049 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:16,566 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:16,567 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:18,315 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:18,316 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:20,321 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:20,322 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:22,660 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:22,661 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:25,254 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:25,254 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:28,119 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:28,120 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:31,319 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:31,320 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:34,835 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:34,836 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:38,774 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:38,774 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:43,020 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:43,021 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:47,617 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:47,618 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:52,601 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:52,603 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:17:58,257 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:17:58,257 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:18:04,392 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:18:04,393 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:18:10,775 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:18:10,775 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:18:17,523 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:18:17,523 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:18:24,776 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:18:24,777 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:18:32,406 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:18:32,407 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:18:40,601 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:18:40,602 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:18:49,406 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:18:49,407 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:18:59,561 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:18:59,562 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:19:10,805 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:19:10,806 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:19:26,783 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:19:26,784 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:19:38,810 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:19:38,811 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:19:50,827 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:19:50,828 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:03,350 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:03,351 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:16,798 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:16,798 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:39,954 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:40,102 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:40,183 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:20:40,183 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:40,263 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:40,352 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:20:40,354 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:40,430 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:40,504 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:20:40,504 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:40,583 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:40,656 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:20:49,744 [Worker#STA_NP] INFO  [hostasp.AppHost] - Setting up new httplistener on port 8083
+2016-08-22 16:20:54,532 [Worker#STA_NP] DEBUG [hostasp.Listener] - Starting http listener
+2016-08-22 16:20:59,300 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: System.Reactive.Debugger, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2016-08-22 16:20:59,386 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:59,387 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:59,549 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:59,550 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:20:59,794 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:20:59,795 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:00,167 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:00,168 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:00,648 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:00,649 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:01,239 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:01,239 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:02,027 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:02,028 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:02,945 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:02,946 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:04,129 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:04,129 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:05,463 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:05,463 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:07,055 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:07,056 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:08,821 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:08,822 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:10,803 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:10,803 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:13,152 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:13,153 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:15,923 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:15,923 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:18,918 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:18,919 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:22,072 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:22,072 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:25,568 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:25,569 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:21:29,527 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:21:29,528 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:22:59,153 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:22:59,270 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:22:59,346 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:22:59,346 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:22:59,425 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:22:59,503 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:22:59,505 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:22:59,580 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:22:59,663 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:22:59,663 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:22:59,739 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:22:59,822 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:23:03,561 [Worker#STA_NP] INFO  [hostasp.AppHost] - Setting up new httplistener on port 8083
+2016-08-22 16:23:04,214 [Worker#STA_NP] DEBUG [hostasp.Listener] - Starting http listener
+2016-08-22 16:23:13,870 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: System.Reactive.Debugger, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2016-08-22 16:23:13,952 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:13,953 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:14,113 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:14,113 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:14,365 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:14,366 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:14,714 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:14,715 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:15,208 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:15,209 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:15,810 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:15,810 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:16,610 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:16,611 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:17,566 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:17,566 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:18,680 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:18,681 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:20,013 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:20,013 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:21,559 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:21,561 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:22,414 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:22,415 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:23,459 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:23,460 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:24,893 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:24,893 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:26,620 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:26,621 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:28,667 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:28,668 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:30,856 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:30,857 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:33,360 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:33,360 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:36,192 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:36,193 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:39,417 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:39,418 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:23:43,038 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:23:43,040 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:07,268 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:07,379 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:07,454 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:26:07,454 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:07,528 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:07,607 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:26:07,608 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:07,682 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:07,756 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:26:07,756 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:07,833 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:07,905 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:26:07,953 [Worker#STA_NP] INFO  [hostasp.AppHost] - Setting up new httplistener on port 8083
+2016-08-22 16:26:07,956 [Worker#STA_NP] DEBUG [hostasp.Listener] - Starting http listener
+2016-08-22 16:26:20,124 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: System.Reactive.Debugger, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2016-08-22 16:26:20,180 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:20,180 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:20,284 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:20,284 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:20,444 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:20,445 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:20,669 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:20,670 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:20,976 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:20,977 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:21,362 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:21,362 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:21,851 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:21,852 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:26:22,446 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:26:22,447 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:14,510 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:14,612 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:14,690 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:27:14,690 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:14,762 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:14,835 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:27:14,836 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:14,924 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:14,998 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:27:14,999 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:15,076 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:15,157 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from default AppDomain, returning not found
+2016-08-22 16:27:15,251 [Worker#STA_NP] INFO  [hostasp.AppHost] - Setting up new httplistener on port 8083
+2016-08-22 16:27:15,369 [Worker#STA_NP] DEBUG [hostasp.Listener] - Starting http listener
+2016-08-22 16:27:19,733 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: System.Reactive.Debugger, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2016-08-22 16:27:19,812 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:19,812 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:19,969 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:19,970 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:20,253 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:20,254 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:20,594 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:20,595 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:21,063 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:21,064 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:21,652 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:21,653 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:22,391 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:22,392 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:23,282 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:23,283 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:24,363 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:24,364 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:25,634 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:25,635 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:27,131 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:27,131 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:28,821 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:28,821 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:30,750 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:30,751 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:32,945 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:32,946 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:35,392 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:35,393 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:38,168 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:38,168 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:41,347 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:41,347 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:44,856 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:44,858 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:48,974 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:48,975 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:53,597 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:53,598 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:27:58,073 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:27:58,074 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:28:02,881 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:28:02,882 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:28:08,185 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:28:08,186 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:28:15,041 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:28:15,042 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:28:22,059 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:28:22,061 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:28:28,707 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:28:28,708 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:28:35,804 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:28:35,805 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:28:43,516 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:28:43,517 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:28:51,589 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:28:51,591 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:29:00,670 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:29:00,671 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:29:09,766 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:29:09,766 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:29:19,481 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:29:19,482 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2016-08-22 16:29:29,738 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Failed to load from Web project, defaulting to default app domain codebase
+2016-08-22 16:29:29,739 [Worker#STA_NP] DEBUG [hostasp.AppHost] - Resolving assembly in ASP.NET AppDomain: nunit.framework, Version=3.4.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb

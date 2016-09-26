@@ -1,0 +1,35 @@
+﻿@model HoS_AP.BLL.Models.CharacterEditModel
+
+@{
+    ViewBag.Title = "Edit Character";
+}
+
+<h2>Edit Character</h2>
+<div class="row">
+    <div class="col-md-12">
+        <section id="loginForm">
+            <form method="POST" class="form-horizontal" role="form">
+                @Html.Partial("_CharacterEditControls")
+                <div class="form-group">
+                    @if (Model.DisplayRecoverButton)
+                    {
+                        <div class="col-md-1">
+                            <button type="button" class="btn btn-warning" onclick="$('#recoverCharacter').submit();">Recover</button>
+                        </div>
+                    }
+                    @if (Model.DisplayDeleteButton)
+                    {
+                        <div class="col-md-1">
+                            <button type="button" class="btn btn-danger" onclick="$('#deleteCharacter').submit();">Delete</button>
+                        </div>
+                    }
+                    <div class="col-md-offset-5 col-md-1">
+                        <input type="submit" value="Save" class="btn btn-primary btn-large pull-right"/>
+                    </div>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+<form method="post" id ="deleteCharacter" action="@Url.Action("Delete")">@Html.HiddenFor(m => m.Name)</form>
+<form method="post" id ="recoverCharacter" action="@Url.Action("Recover")">@Html.HiddenFor(m => m.Name)</form>

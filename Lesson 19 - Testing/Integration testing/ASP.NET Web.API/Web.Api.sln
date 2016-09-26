@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api", "Web.Api\Web.Api.csproj", "{1C9C454F-072B-49BE-841B-69E894D05BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api.ControllerTests", "Web.Api.ControllerTests\Web.Api.ControllerTests.csproj", "{E3282490-54E8-47B3-9BB0-12888F61C23C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api.InMemoryTests", "Web.Api.InMemoryTests\Web.Api.InMemoryTests.csproj", "{B6946C25-E5F6-48DB-B4AE-7233D75EA072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api.SelfHostedTests", "Web.Api.SelfHostedTests\Web.Api.SelfHostedTests.csproj", "{23A8CE50-0770-446F-9CF1-4C594045811E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api.JMeterTests", "Web.Api.JMeterTests\Web.Api.JMeterTests.csproj", "{22D443D8-E125-4DC6-840B-B04409D841BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api.OwinTests", "Web.Api.OwinTests\Web.Api.OwinTests.csproj", "{B8B4D1EA-C254-4E8F-A7A2-8D63BAFFAD92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9C454F-072B-49BE-841B-69E894D05BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9C454F-072B-49BE-841B-69E894D05BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9C454F-072B-49BE-841B-69E894D05BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9C454F-072B-49BE-841B-69E894D05BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3282490-54E8-47B3-9BB0-12888F61C23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3282490-54E8-47B3-9BB0-12888F61C23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3282490-54E8-47B3-9BB0-12888F61C23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3282490-54E8-47B3-9BB0-12888F61C23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6946C25-E5F6-48DB-B4AE-7233D75EA072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6946C25-E5F6-48DB-B4AE-7233D75EA072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6946C25-E5F6-48DB-B4AE-7233D75EA072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6946C25-E5F6-48DB-B4AE-7233D75EA072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A8CE50-0770-446F-9CF1-4C594045811E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A8CE50-0770-446F-9CF1-4C594045811E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A8CE50-0770-446F-9CF1-4C594045811E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A8CE50-0770-446F-9CF1-4C594045811E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D443D8-E125-4DC6-840B-B04409D841BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D443D8-E125-4DC6-840B-B04409D841BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D443D8-E125-4DC6-840B-B04409D841BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D443D8-E125-4DC6-840B-B04409D841BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B4D1EA-C254-4E8F-A7A2-8D63BAFFAD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B4D1EA-C254-4E8F-A7A2-8D63BAFFAD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B4D1EA-C254-4E8F-A7A2-8D63BAFFAD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B4D1EA-C254-4E8F-A7A2-8D63BAFFAD92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

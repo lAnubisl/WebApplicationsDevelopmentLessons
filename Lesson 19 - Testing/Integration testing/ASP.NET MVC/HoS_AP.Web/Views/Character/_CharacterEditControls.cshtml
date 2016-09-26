@@ -1,0 +1,34 @@
+﻿@model HoS_AP.BLL.Models.CharacterEditModel
+
+@Html.AntiForgeryToken()
+@Html.ValidationSummary(true)
+@Html.HiddenFor(m => m.Id)
+@Html.HiddenFor(m => m.Deleted)
+<div class="form-group">
+    @Html.LabelFor(m => m.Name, new { @class = "col-md-1 control-label" })
+    <div class="col-md-5">
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Name)
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.Type, new { @class = "col-md-1 control-label" })
+    <div class="col-md-5">
+        @Html.DropDownListFor(m => m.Type, Model.Types.Select(x => new SelectListItem { Text = x.ToString() }), "Please select", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Type)
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.Price, new { @class = "col-md-1 control-label" })
+    <div class="col-md-5">
+        @Html.TextBoxFor(m => m.Price, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Price)
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.Active, new { @class = "col-md-1 control-label" })
+    <div class="col-md-5">
+        @Html.CheckBoxFor(m => m.Active)
+        @Html.ValidationMessageFor(m => m.Active)
+    </div>
+</div>
