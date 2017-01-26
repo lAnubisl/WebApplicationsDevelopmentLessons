@@ -1,0 +1,17 @@
+﻿@model Blog.Models.PageModel
+
+<div style="padding:10px; background-color:green;">
+    Hello from page template
+
+    <p style="color:white;">@Model.Name</p>
+    @Model.GetAge()
+
+    @Html.Partial("Contact", Model)
+</div>
+
+@section footer{
+<div style="padding:10px; background-color:green;">
+    Hello from page template section "footer"
+    @Html.Partial("Contact")
+</div>
+}

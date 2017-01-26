@@ -1,0 +1,15 @@
+﻿@{ 
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<div style="padding:10px; background-color:blue;">
+    Hello from page template
+    @Html.Partial("Contact")
+</div>
+
+@section footer{
+    <div style="padding:10px; background-color:blue;">
+        Hello from page template section "footer"
+        @Html.Partial("Contact")
+    </div>
+}

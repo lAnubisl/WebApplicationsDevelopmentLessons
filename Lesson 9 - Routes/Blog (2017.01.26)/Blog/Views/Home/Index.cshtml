@@ -1,0 +1,22 @@
+﻿@model Blog.Models.PageModel
+
+<div style="padding:10px; background-color:green;">
+    Hello from page template
+
+    <p style="color:white;">@Model.Name</p>
+    @Model.GetAge()
+
+    @Html.ActionLink("List", "Listing", "Article", new {pageNumber = 5, pageSize = Model.GetAge()}, null )
+
+    @Url.Action("Listing", "Article", new { pageNumber = 5, pageSize = Model.GetAge()})
+    @Url.RouteUrl("Listing", new { pageNumber = 5, pageSize = Model.GetAge() })
+
+    @Html.Partial("Contact", Model)
+</div>
+
+@section footer{
+<div style="padding:10px; background-color:green;">
+    Hello from page template section "footer"
+    @Html.Partial("Contact")
+</div>
+}

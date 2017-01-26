@@ -1,0 +1,13 @@
+﻿@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="padding:10px; background-color:yellow;">
+    <p>Hello from parent template</p>
+    @RenderBody()
+    <p>Hello from parent template</p>
+    @Html.Partial("Contact")
+</div>
+
+@section footer{
+    @RenderSection("footer", false)
+}

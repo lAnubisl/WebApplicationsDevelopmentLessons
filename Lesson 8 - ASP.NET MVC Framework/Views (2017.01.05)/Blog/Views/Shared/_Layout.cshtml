@@ -1,0 +1,13 @@
+﻿<html>
+<body>
+    <div style="padding:10px; background-color:red;">
+        <p>Hello from parent template</p>
+        @RenderBody()
+        <p>Hello from parent template</p>
+        @RenderSection("footer", false)
+        @*@Html.Partial("Contact")*@
+        @Html.Action("Contact")
+    </div>
+    
+</body>
+</html>
