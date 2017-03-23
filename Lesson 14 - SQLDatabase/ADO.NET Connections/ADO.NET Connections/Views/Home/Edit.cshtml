@@ -1,0 +1,16 @@
+﻿@model ADO.NET_Connections.Models.CatEditModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<form method="post">
+    @Html.HiddenFor(m => m.Id)
+    @Html.LabelFor(m => m.Name)
+    @Html.TextBoxFor(m => m.Name)
+    <br/>
+    @Html.LabelFor(m => m.Owner)
+    @Html.TextBoxFor(m => m.Owner)
+    <input type="submit"/>
+</form>

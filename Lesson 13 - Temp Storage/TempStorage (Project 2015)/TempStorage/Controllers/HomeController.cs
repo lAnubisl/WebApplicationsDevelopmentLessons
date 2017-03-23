@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Web;
-using System.Web.Caching;
 using System.Web.Mvc;
 using System.Web.Security;
 using System.Web.UI;
+using TempStorage.Models;
 
 namespace TempStorage.Controllers
 {
@@ -29,14 +28,17 @@ namespace TempStorage.Controllers
 		{
 			if (HttpContext.Session != null)
 			{
-				HttpContext.Session["MySession"] = new Collection<string>() {"Item1", "Item2", "Item3"};
-				HttpContext.Session["blablabla"] = "Blablabla !!!";
+                HttpContext.Session["MySession"] = new Collection<string> {"Item1", "Item2", "Item3"};
+                HttpContext.Session["blablabla"] = "Blablabla !!!";
+                HttpContext.Session["User"] = new User() {Name = "Alex"};
 			}
 
 			return View();
 		}
 
-		[OutputCache(Duration = 60, Location = OutputCacheLocation.Client, VaryByParam = "id")]
+
+
+		[OutputCache(Duration = 60, Location = OutputCacheLocation.Server)]
 		public ActionResult CachedPage()
 		{
 			Thread.Sleep(5000);
