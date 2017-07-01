@@ -13,6 +13,15 @@ namespace Forms.Controllers
     }
     public class FormModel
     {
+        public string myName { get; set; }
+
+        public string selectedOption { get; set; }
+
+        public string[] AvailableOptions
+        {
+            get { return new[] {"Option1", "Option2", "Option3"}; }
+        }
+
         public UserModel user { get; set; }
 
         public HttpPostedFileBase avatar { get; set; }
@@ -30,9 +39,10 @@ namespace Forms.Controllers
         [Route()]
         [HttpPost]
         public ActionResult Index([ModelBinder(typeof(MyModelBinder))] FormModel model)
+        //public ActionResult Index(FormModel model)
         {
             //model.avatar.SaveAs("C:/temp/" + model.avatar.FileName);
-            return View(model);
+            return View(new FormModel());
         }
     }
 

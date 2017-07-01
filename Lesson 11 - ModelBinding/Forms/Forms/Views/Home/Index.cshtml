@@ -4,16 +4,12 @@
 }
 
 <form method="POST" action="/" enctype="multipart/form-data">
-    @Html.TextBoxFor(m => m.user.name)
-    <select name="Option">
-        <option>Option 1</option>
-        <option>Option 2</option>
-        <option>Option 3</option>
-    </select>
-    <input name="registered" type="checkbox"/>
-    <input type="radio"/>
-    <input type="hidden"/>
-    <input name="avatar" type="file"/>
-    <input name="password" type="password"/>
-    <input type="submit"/>
+    @Html.TextBoxFor(m => m.user.name)<br />
+    @Html.DropDownListFor(m => m.selectedOption, Model.AvailableOptions.Select(o => new SelectListItem() { Text = o }))    <br />
+    <input type="checkbox"/><br/>
+    <input type="radio"/><br/>
+    <input type="hidden"/><br/>
+    <input name="avatar" type="file"/><br/>
+    <input type="password"/><br/>
+    <input type="submit"/><br/>
 </form>
